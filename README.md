@@ -4,9 +4,9 @@ Check out the Wiki! https://github.com/eeg-ugent/specialized-toolboxes/wiki
 
 ### Brain Time - retune electrophysiology data to brain dynamics
 **MATLAB**<br/>
-The toolbox overcomes disharmony between the brain’s internal regime and clock time by warping the data so that oscillatory cycles are the data’s new time axis.
-link: https://github.com/sandervanbree/braintime
-paper: https://www.nature.com/articles/s41562-022-01386-8.epdf?sharing_token=AFtD8DIDBwhBbxx-04iy6tRgN0jAjWel9jnR3ZoTv0PRI-RIYCZThTyByD9glMFEz5Zi-7EoPjCB-8x0mDrK-2d-bYUKxqeMKV98GhB05bYL44_clz0sR_82FoDSWxw1WcHffNKzUz3Z53iGiyttpJ9maTA7zQDONTs-HXhlFE8%3D
+The toolbox overcomes disharmony between the brain’s internal regime and clock time by warping the data so that oscillatory cycles are the data’s new time axis.<br/>
+link: https://github.com/sandervanbree/braintime<br/>
+paper: https://www.nature.com/articles/s41562-022-01386-8.epdf?sharing_token=AFtD8DIDBwhBbxx-04iy6tRgN0jAjWel9jnR3ZoTv0PRI-RIYCZThTyByD9glMFEz5Zi-7EoPjCB-8x0mDrK-2d-bYUKxqeMKV98GhB05bYL44_clz0sR_82FoDSWxw1WcHffNKzUz3Z53iGiyttpJ9maTA7zQDONTs-HXhlFE8%3D<br/>
 
 ### Unfold 1.2 - EEG Deconvolution Toolbox
 **MATLAB**<br/>
