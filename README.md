@@ -1,8 +1,14 @@
 # specialized-toolboxes
-Specialized toolboxes to extract/analyze specific features of electrophysiological data (e.g. aperiodic features, waveform shape)<br>
+Specialized toolboxes to extract/analyze/simulate specific features of electrophysiological data (e.g. aperiodic features, waveform shape)<br>
 Check out the Wiki! https://github.com/eeg-ugent/specialized-toolboxes/wiki
 
-### Brain Time - retune electrophysiology data to brain dynamics
+### NeuroDSP
+**Python**<br/>
+Digital signal processing (DSP) tools for neural data (filtering, spectra). Also tools for simulating non-sinusoidal, bursty oscillations, aperiodic activity, etc.<br/>
+link: https://neurodsp-tools.github.io/neurodsp/<br/>
+paper:  https://doi.org/10.21105/joss.01272<br/>
+
+### Brain Time - temporally retune electrophysiology data to brain dynamics
 **MATLAB**<br/>
 The toolbox overcomes disharmony between the brain’s internal regime and clock time by warping the data so that oscillatory cycles are the data’s new time axis.<br/>
 link: https://github.com/sandervanbree/braintime<br/>
