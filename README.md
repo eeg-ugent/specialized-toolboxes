@@ -1,6 +1,28 @@
 # specialized-toolboxes
 Specialized toolboxes to extract/analyze/simulate specific features of electrophysiological data (e.g. aperiodic features, waveform shape)<br>
-Check out the Wiki! https://github.com/eeg-ugent/specialized-toolboxes/wiki
+
+### NeuroPycon
+**Python**<br/>
+Fast multi-modal and reproducible brain connectivity.<br/>
+link: https://github.com/neuropycon<br/>
+paper: https://www.sciencedirect.com/science/article/pii/S1053811920305061?via%3Dihub<br/>
+
+### Braindecode
+**Python**<br/>
+Decoding raw electrophysiological brain data with deep learning models.<br/>
+link: https://braindecode.org/stable/index.html<br/>
+paper: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23730<br/>
+
+### Tensorpac
+**Python**<br/>
+Compute Phase-Amplitude Coupling (PAC)<br/>
+link: https://etiennecmb.github.io/tensorpac/https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008302<br/>
+paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008302<br/>
+
+### Brain Dynamics Toolbox
+**Matlab**<br/>
+Simulating Dynamical Systems in Neuroscience<br/>
+link: https://bdtoolbox.teachable.com/
 
 ### NeuroDSP
 **Python**<br/>
