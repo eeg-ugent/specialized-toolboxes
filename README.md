@@ -1,6 +1,11 @@
 # specialized-toolboxes
 Specialized toolboxes to extract/analyze/simulate specific features of electrophysiological data (e.g. aperiodic features, waveform shape)<br>
 
+## Julia 
+
+### NeuroAnalyzer - Fast analysis of big datasets
+link: https://neuroanalyzer.org/<br/>
+
 ## Python
 
 ### NeuroPycon - Fast multi-modal and reproducible brain connectivity
