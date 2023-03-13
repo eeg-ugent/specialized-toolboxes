@@ -8,6 +8,10 @@ link: https://neuroanalyzer.org/<br/>
 
 ## Python
 
+### FINN - Direct modulation index and other measures of phase-amplitude coupling<br/>
+link: https://github.com/neurophysiological-analysis/FiNN<br/>
+paper: https://onlinelibrary.wiley.com/doi/10.1002/hbm.26190<br/>
+
 ### NeuroPycon - Fast multi-modal and reproducible brain connectivity
 link: https://github.com/neuropycon<br/>
 paper: https://www.sciencedirect.com/science/article/pii/S1053811920305061?via%3Dihub<br/>
