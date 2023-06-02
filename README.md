@@ -8,6 +8,11 @@ link: https://neuroanalyzer.org/<br/>
 
 ## Python
 
+### EMD - Empirical Mode Decomposition
+Python tools for the extraction and analysis of non-linear and non-stationary oscillatory signals
+link: https://emd.readthedocs.io/en/stable/
+paper: https://joss.theoj.org/papers/10.21105/joss.02977
+
 ### FINN - Direct modulation index and other measures of phase-amplitude coupling<br/>
 link: https://github.com/neurophysiological-analysis/FiNN<br/>
 paper: https://onlinelibrary.wiley.com/doi/10.1002/hbm.26190<br/>
