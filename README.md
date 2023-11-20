@@ -45,6 +45,11 @@ paper:  https://doi.org/10.1152/jn.00273.2019
 
 ## MATLAB
 
+### seqNMF
+Unsupervised discovery of temporal sequences in high-dimensional datasets, with applications to neuroscience.<br/>
+link: https://github.com/FeeLab/seqNMF<br/>
+paper: https://elifesciences.org/articles/38471<br/>
+
 ### Brain Dynamics Toolbox
 Simulating Dynamical Systems in Neuroscience<br/>
 link: https://bdtoolbox.teachable.com/
