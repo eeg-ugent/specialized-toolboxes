@@ -43,6 +43,10 @@ paper: https://www.nature.com/articles/s41593-020-00744-x
 link: https://bycycle-tools.github.io/bycycle/  <br/>
 paper:  https://doi.org/10.1152/jn.00273.2019
 
+### find_delay - tries to find the delay where a time series appear in another via cross-correlation
+link: https://find-delay.readthedocs.io/en/latest/ <br/>
+
+
 ## MATLAB
 
 ### seqNMF
